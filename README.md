@@ -63,11 +63,7 @@ Unity Explorer 2.0 is a powerful runtime inspection tool for Unity games using I
 
 ## Changelog
 
-**v2.0 (Current)**  
-- Full IL2CPP compatibility.  
-- Redesigned UI for better usability.  
-- Enhanced object search and inspection.  
-- Improved performance in large scenes.
+None for now.
 
 ---
 
